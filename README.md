@@ -11,11 +11,12 @@
 ![GitHub Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MurphyBot&layout=compact&theme=highcontrast)
 <br>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px"> BuildPack Heroku
-| Request |
-## Req Fiture
-| **click disini** | [HERE](https://api.whatsapp.com/send?phone=14808781865&text=%23req fiture) |
-| :---------------------------------------------: | :-----------: |
+## Request Fiture
+<p align="center">
+ <a href="https://instagram.com/ffzkyaf"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6288286421519"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://youtube.com/channel/UCzpsJxweXJUr-dhyA5DF6fQ"><img src="https://img.shields.io/badge/YouTube-OhMyNino?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCofvtddjxVV_2gOAqGen_sg" />
+ <a name=Nino-chan02&label=VIEWS&style=flat-square&color=red"/>
+</p>
 
 ## Connect With Me
 <p align="center">
